@@ -1,0 +1,22 @@
+[
+  {"title":"Team Builder",
+   "description":"Lorem Ipsum is simply dummy text of the printing",
+   "img1":"./images/groups.jpg"
+        },
+{
+    "title":"Calculator",
+   "description":"Lorem Ipsum is simply dummy text of the printing",
+   "img1":"./images/groups.jpg"
+},
+{
+    "title":"Karma",
+   "description":"Lorem Ipsum is simply dummy text of the printing",
+   "img1":"/images/tips.svg"
+},
+{
+    "title":"Supervisor",
+   "description":"Lorem Ipsum is simply dummy text of the printing",
+   "img1":"/images/calculator.svg"
+}
+
+]
